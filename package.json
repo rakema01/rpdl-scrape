@@ -1,0 +1,22 @@
+{
+  "name": "rpdl-scrape",
+  "version": "2.0.0",
+  "description": "Scrape torrents from the rpdl website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rakema01",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakema01/rpdl-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rakema01/rpdl-tools/issues"
+  },
+  "homepage": "https://github.com/rakema01/rpdl-tools#readme",
+  "dependencies": {
+    "torrust-js": "github:rakema01/torrust-js"
+  }
+}
